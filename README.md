@@ -1,3 +1,2 @@
 # GoProxy-simple
-Simple implementation of golang RevereseProxy
-
+Implement Golang RevereseProxy, modifying Director and Transport
